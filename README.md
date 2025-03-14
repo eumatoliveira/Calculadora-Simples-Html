@@ -1,6 +1,7 @@
 # Calculadora Simples com HTML e CSS
 
-https://imgur.com/a/VVMvdNx
+![Descrição da Imagem](https://imgur.com/a/VVMvdNx))
+
 
 
 Este projeto consiste em uma calculadora web básica, construída utilizando HTML para a estrutura e CSS para a estilização. A calculadora permite realizar operações simples como subtração, multiplicação, divisão e módulo entre dois números.
