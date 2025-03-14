@@ -1,6 +1,6 @@
 # Calculadora Simples com HTML e CSS
 
-![Descrição da Imagem](https://imgur.com/a/VVMvdNx))
+https://github.com/eumatoliveira/Calculadora-Simples-Html/blob/main/Screenshot%202025-03-14%20145156.png
 
 
 
