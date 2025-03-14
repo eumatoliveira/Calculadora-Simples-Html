@@ -38,3 +38,18 @@ A calculadora apresenta uma interface limpa e centrada, com campos de entrada pa
 * **Tratamento de erros:** Adicionar tratamento de erros para divisão por zero e outros casos.
 
 ## Estrutura do Projeto
+
+calculadora-simples/
+├── index.html
+└── README.md
+
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você tiver alguma sugestão de melhoria ou encontrar algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Observações
+
+* Este README descreve a estrutura e funcionalidades da calculadora com base no código HTML fornecido.
+* A funcionalidade de cálculo em si não está presente no código HTML fornecido e precisaria ser implementada com JavaScript.
+* Existe um erro de digitação no código HTML: `widht` deve ser `width`.
